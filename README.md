@@ -1,2 +1,2 @@
-1. Print all files in cwd starting with a letter character
+1. Print all files in cwd starting with a letter character (using bat file makes this redundant)
 2. Copies printed files to the clipboard with new lines included
